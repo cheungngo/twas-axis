@@ -66,7 +66,7 @@ The pipeline evaluates 13 broad neurobiological categories. The monoamine neurot
 ### From source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/psychiatric-proximity.git
+git clone https://github.com/cheungngo/twas-axis.git
 cd psychiatric-proximity
 pip install -r requirements.txt
 ```
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ### As an installable package
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/psychiatric-proximity.git
+git clone https://github.com/cheungngo/twas-axis.git
 cd psychiatric-proximity
 pip install .
 ```
